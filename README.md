@@ -18,6 +18,9 @@ Benjamin (Ben) Agner is one of the co-founders of Rocky Linux and was a co-autho
 ### Christopher DiBona
 
 ### Greg Kroah-Hartman
+Greg Kroah-Hartman is a Linux kernel maintainer and in charge of the stable kernel releases. He maintains various driver related
+subsystems in the kernel, has been involved in the kernel developer community since 1999, and a member of the Linux kernel security team since it was founded. He was also responsible for udev which is now part of the systemd project, and maintains other various low-level userspace tools for Linux. Greg is very happy to be helping the community of enterprise users by ensuring that Rocky
+Linux has a stable and secure kernel as a basis for all users to rely on.
 
 ### Gregory Kurtzer
 Gregory M. Kurtzer is a 20+ year veteran in Linux, open source, and high performance computing. He is well known in the HPC space for designing scalable and easy to manage secure architectures for innovative performance-intensive computing while working for the U.S. Department of Energy with a joint appointment to UC Berkeley. Greg founded, co-founded, and led several large open source projects such as CentOS Linux, the Warewulf and Perceus cluster toolkits, the container system Singularity (now renamed to Apptainer), and most recently, the successor to CentOS, Rocky Linux.
