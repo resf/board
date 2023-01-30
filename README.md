@@ -10,7 +10,7 @@ The current RESF board was voted on by the initial RESF Members on December
 21st, 2022 with the following elections:
 
 ### Louis Abel
-Louis Abel is a System Engineer who started his Linux journey in 2005. He has been in the Enterprise Linux world both personally and professionally for almost a decade and a half, jumping between automation, system hardening and security, and identity management. In his personal time, Louis is a team leader and extremely valuable contributor to the Rocky Linux releng (Release Engineering) team developing and releasing Rocky Linux with a great group of individuals.
+Louis Abel is a system engineer who started his Linux journey in 2005. He has been in the Enterprise Linux world both personally and professionally for almost a decade and a half, jumping between automation, system hardening and security, and identity management. Abel is a Rocky Linux co-founder, has been a part of almost all engineering initiatives across the project, and has been a co-lead of the release engineering team since the inception of the project.
 
 ### Benjamin Agner
 Benjamin (Ben) Agner is one of the co-founders of Rocky Linux and was a co-author of the Rocky Enterprise Software Foundation charter and bylaws.  He has over two decades of IT, security, engineering, governance, risk, and compliance experience ranging from hyper-growth startups to large enterprises, and has spent the majority of the last decade securely implementing and managing open source software in the enterprise.  Ben currently works at Unum, a Fortune 250 insurance company, as it's Deputy Chief Information Security Officer
