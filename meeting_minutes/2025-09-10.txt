@@ -1,0 +1,58 @@
+MEMORANDUM FOR RECORD
+
+SUBJECT: Minutes for RESF Board Meeting Held September 10th, 2025
+
+1. A meeting of the Board of Directiors (the "Board") of The Rocky Enterprise Software Foundation (the "Foundation") was held on September 10th, 2025 at 23:00 UTC, via video conference.
+
+The meeting was held via online video conference. Mr. Clemens called the meting to order September 10th, 2025 at 23:00 UTC.
+
+2. Attendance   
+
+    a. The following directors, constituting a quorum, were present
+        - Gregory Kurtzer
+        - Louis Abel
+        - Brian Clemens
+        - Christopher Stackpole
+        - Sherif Nagy
+        - Buyanjargal Shirnen
+        - Christopher DiBona
+        - Theodore Tso
+
+    b. The following directors were absent from the meeting:
+        - Benjamin Agner
+        - Taylor Goodwill
+        - Neil Hanlon
+        - Mustafa Gezen
+
+    c. Also present at the meeting was:
+        - Leigh Hennig, Foundation Sponsor and Partner Coordinator
+
+3. Call to Order and Introductions
+
+    Mr. Clemens called the meeting to order.
+
+4. Board Discussion
+
+    a. First, the Board approved the meeting agenda previously circulated to the Board by Mr. Clemens
+
+    b. Next, the Board welcomed the newly elected independent Director, Buyanjargal Shirnen.
+
+    c. Next, Mr. Clemens provided an operations update, including the status of the Foundation's financials and various upcoming events.
+
+    d. Next, Mr. Hennig provided an update on the status of the Foundation's supporting sponsorships.
+
+    e. Next, Mr. Abel provided an update on the Rocky Linux Project. Mr. Abel discussed progress on the preparations for the upcoming 10.1 and 9.7 releases expected in November. Mr. Clemens also noted the recent contributions made by CIQ to Rocky Linux errata efforts.
+    
+    f. Next, in lieu of Mr. Gezen, Mr. Abel provided an update on the Peridot project.
+
+    g. Next, Mr. Clemens discussed progress in investigating nonprofit incorporation of the Foundation.
+  
+5. Adjournment
+
+    There being no further business, the meeting was adjourned at approximately 23:45 UTC.
+
+Respectfully Submitted,
+
+Brian Clemens
+Vice President
+Rocky Enterprise Software Foundation
